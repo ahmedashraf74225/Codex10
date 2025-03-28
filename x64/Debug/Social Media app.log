@@ -1,0 +1,3 @@
+﻿  Social Media app.cpp
+C:\Users\dell\Desktop\CodeX\Social Media app\Social Media app.cpp(230,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Social Media app.vcxproj -> C:\Users\dell\Desktop\CodeX\Social Media app\x64\Debug\Social Media app.exe
